@@ -1,2 +1,2 @@
 # Android2Notlari
-Android2Notlari.git
+Android2Notlari
