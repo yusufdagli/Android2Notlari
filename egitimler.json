@@ -1,0 +1,34 @@
+{
+	"egitimler":[
+
+				{
+					"id":"1",
+					"ad":"Android 2 Eğitimi",
+					"saati":"160",
+					"egitmeni":"Şerif GÜNGÖR",
+					"konulari":"RecyclerView,JSON,XML,Firebase,Services,Glide,Volley,Retrofit,GSON",
+					"sinif":"Lab 09"
+
+				},
+
+				{
+					"id":"2",
+					"ad":"Python Eğitimi",
+					"saati":"80",
+					"egitmeni":"Mustafa YILMAZ",
+					"konulari":"Değişkenler,Döngüler,Fonksiyonlar,OOP,Python GUI,SQLite,CGI Web Programlama,DJango",
+					"sinif":"Lab 08"
+
+				},
+				{
+					"id":"3",
+					"ad":"Android 1 Eğitimi",
+					"saati":"80",
+					"egitmeni":"Burhan GÖK",
+					"konulari":"Layoutlar,UI,Design,SQLite,Veritabanı,Intent",
+					"sinif":"Lab 09"
+				}
+
+
+				]
+}
